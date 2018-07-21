@@ -5,6 +5,7 @@ kaggleチュートリアルの[MNIST](https://www.kaggle.com/c/digit-recognizer)
 
 ## 環境
 Python 3.6.4 :: Anaconda, Inc.
+
 chainer 4.2.0
 
 ## CNNアーキテクチャ
